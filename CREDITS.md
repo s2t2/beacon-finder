@@ -4,6 +4,18 @@
 
   + https://facebook.github.io/react-native/
   + https://facebook.github.io/react-native/docs/getting-started.html
+  + https://facebook.github.io/react-native/docs/tutorial.html
+
+### Tutiorials
+
+  + https://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial
+
+### Styling and Design
+
+  + https://github.com/xinthink/react-native-material-kit
+  + http://nativebase.io/
+  + http://nativebase.io/docs/v0.5.0/components
+
 
 ## Android Development
 

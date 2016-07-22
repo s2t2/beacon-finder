@@ -13,6 +13,8 @@ cd beacon-finder/BeaconFinder/
 
 ## Usage
 
+Follow [prerequisite steps](/SETUP.md) as necessary to setup your dev environment.
+
 Ensure an android emulator is running or an android device is connected, then:
 
 ```` sh
