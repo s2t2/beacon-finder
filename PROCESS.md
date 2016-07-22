@@ -17,3 +17,9 @@ javac -version #> javac 1.7.0_80
 ```` sh
 react-native init BeaconFinder
 ````
+
+Add to *~/.bash_profile*:
+
+```` sh
+export ANDROID_HOME="/Users/mjr/Library/Android/sdk"
+````
