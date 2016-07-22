@@ -8,6 +8,7 @@
 ## Android Development
 
   + https://developer.android.com/studio/install.html
+  + http://stackoverflow.com/questions/32228979/android-gradle-project-sync-failed-due-to-target-version
 
 ## Bluetooth Scanning
 
