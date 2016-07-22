@@ -7,8 +7,11 @@
 
 ## Android Development
 
+### Setup
+
   + https://developer.android.com/studio/install.html
   + http://stackoverflow.com/questions/32228979/android-gradle-project-sync-failed-due-to-target-version
+  + http://stackoverflow.com/questions/27272605/failed-to-find-build-tools-revision-21-1-1-sdk-up-to-date#comment52464209_29395631
 
 ## Bluetooth Scanning
 
