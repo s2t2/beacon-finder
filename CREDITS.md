@@ -5,6 +5,7 @@
   + https://facebook.github.io/react-native/
   + https://facebook.github.io/react-native/docs/getting-started.html
   + https://facebook.github.io/react-native/docs/tutorial.html
+  + https://github.com/rnpm/rnpm
 
 ### Tutiorials
 
@@ -13,7 +14,10 @@
 ### Styling and Design
 
   + https://github.com/xinthink/react-native-material-kit
+  + https://github.com/jondot/awesome-react-native
+  + https://github.com/GeekyAnts/NativeBase
   + http://nativebase.io/
+  + http://nativebase.io/docs/v0.5.0/getting-started
   + http://nativebase.io/docs/v0.5.0/components
 
 

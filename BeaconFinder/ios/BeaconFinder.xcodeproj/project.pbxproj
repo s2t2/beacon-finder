@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -23,6 +22,18 @@
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		A00FCB5C11BA4B948F5025F5 /* Andale Mono.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EDAFE0EC1A80496A9AF1B4F0 /* Andale Mono.ttf */; };
+		31297072AE504EC594614D27 /* Arial Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF9553EDFBCC49BCBE73FE20 /* Arial Black.ttf */; };
+		7C4BD1A53D35499D9A562911 /* Arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AC51EE6D66D48D1B2F4BCE3 /* Arial.ttf */; };
+		3DD892FC34924C8BBA9F5670 /* Chalkboard.ttc in Resources */ = {isa = PBXBuildFile; fileRef = DE9CC3B6E9144F2E9F460F0E /* Chalkboard.ttc */; };
+		3D1D0A95F5BA409F8A9A5400 /* Cochin.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 01381774E1C544CFA750CF40 /* Cochin.ttc */; };
+		EEB7F61072534E08A24F06C8 /* Comic Sans MS.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7E6554A98924FB786C484F9 /* Comic Sans MS.ttf */; };
+		AEA8DA26C3DE4BE6AA56B9C0 /* Courier New.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A500E0D85B174B82B8C2CD5C /* Courier New.ttf */; };
+		864A059B93C648EB909D9816 /* DevanagariMT.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 76DBE9256A4144ED9B903491 /* DevanagariMT.ttc */; };
+		49FB5240B6914E649A0063BD /* Georgia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF60A04F03EB407B8FBEC432 /* Georgia.ttf */; };
+		4DCDCE87D7424AD58916382D /* Microsoft Sans Serif.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23D6AA781A624010A5A76491 /* Microsoft Sans Serif.ttf */; };
+		0A488BC8BCD4471C8B3BFD06 /* Skia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 78B3EB797196468CB7B9E660 /* Skia.ttf */; };
+		7EDBFB5A38214860957EDC3E /* Times New Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD61BE1D6D97495FB2082AAF /* Times New Roman.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -127,6 +138,18 @@
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = ../node_modules/react-native/React/React.xcodeproj; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = ../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = ../node_modules/react-native/Libraries/Text/RCTText.xcodeproj; sourceTree = "<group>"; };
+		EDAFE0EC1A80496A9AF1B4F0 /* Andale Mono.ttf */ = {isa = PBXFileReference; name = "Andale Mono.ttf"; path = "../node_modules/native-base/Fonts/Andale Mono.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FF9553EDFBCC49BCBE73FE20 /* Arial Black.ttf */ = {isa = PBXFileReference; name = "Arial Black.ttf"; path = "../node_modules/native-base/Fonts/Arial Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7AC51EE6D66D48D1B2F4BCE3 /* Arial.ttf */ = {isa = PBXFileReference; name = "Arial.ttf"; path = "../node_modules/native-base/Fonts/Arial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DE9CC3B6E9144F2E9F460F0E /* Chalkboard.ttc */ = {isa = PBXFileReference; name = "Chalkboard.ttc"; path = "../node_modules/native-base/Fonts/Chalkboard.ttc"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01381774E1C544CFA750CF40 /* Cochin.ttc */ = {isa = PBXFileReference; name = "Cochin.ttc"; path = "../node_modules/native-base/Fonts/Cochin.ttc"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C7E6554A98924FB786C484F9 /* Comic Sans MS.ttf */ = {isa = PBXFileReference; name = "Comic Sans MS.ttf"; path = "../node_modules/native-base/Fonts/Comic Sans MS.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A500E0D85B174B82B8C2CD5C /* Courier New.ttf */ = {isa = PBXFileReference; name = "Courier New.ttf"; path = "../node_modules/native-base/Fonts/Courier New.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76DBE9256A4144ED9B903491 /* DevanagariMT.ttc */ = {isa = PBXFileReference; name = "DevanagariMT.ttc"; path = "../node_modules/native-base/Fonts/DevanagariMT.ttc"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF60A04F03EB407B8FBEC432 /* Georgia.ttf */ = {isa = PBXFileReference; name = "Georgia.ttf"; path = "../node_modules/native-base/Fonts/Georgia.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		23D6AA781A624010A5A76491 /* Microsoft Sans Serif.ttf */ = {isa = PBXFileReference; name = "Microsoft Sans Serif.ttf"; path = "../node_modules/native-base/Fonts/Microsoft Sans Serif.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		78B3EB797196468CB7B9E660 /* Skia.ttf */ = {isa = PBXFileReference; name = "Skia.ttf"; path = "../node_modules/native-base/Fonts/Skia.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CD61BE1D6D97495FB2082AAF /* Times New Roman.ttf */ = {isa = PBXFileReference; name = "Times New Roman.ttf"; path = "../node_modules/native-base/Fonts/Times New Roman.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -293,6 +316,7 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* BeaconFinderTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
+				70C4D9D03D404AD28AFE48C8 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -305,6 +329,26 @@
 				00E356EE1AD99517003FC87E /* BeaconFinderTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		70C4D9D03D404AD28AFE48C8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EDAFE0EC1A80496A9AF1B4F0 /* Andale Mono.ttf */,
+				FF9553EDFBCC49BCBE73FE20 /* Arial Black.ttf */,
+				7AC51EE6D66D48D1B2F4BCE3 /* Arial.ttf */,
+				DE9CC3B6E9144F2E9F460F0E /* Chalkboard.ttc */,
+				01381774E1C544CFA750CF40 /* Cochin.ttc */,
+				C7E6554A98924FB786C484F9 /* Comic Sans MS.ttf */,
+				A500E0D85B174B82B8C2CD5C /* Courier New.ttf */,
+				76DBE9256A4144ED9B903491 /* DevanagariMT.ttc */,
+				DF60A04F03EB407B8FBEC432 /* Georgia.ttf */,
+				23D6AA781A624010A5A76491 /* Microsoft Sans Serif.ttf */,
+				78B3EB797196468CB7B9E660 /* Skia.ttf */,
+				CD61BE1D6D97495FB2082AAF /* Times New Roman.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -352,7 +396,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 610;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -509,6 +553,18 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				A00FCB5C11BA4B948F5025F5 /* Andale Mono.ttf in Resources */,
+				31297072AE504EC594614D27 /* Arial Black.ttf in Resources */,
+				7C4BD1A53D35499D9A562911 /* Arial.ttf in Resources */,
+				3DD892FC34924C8BBA9F5670 /* Chalkboard.ttc in Resources */,
+				3D1D0A95F5BA409F8A9A5400 /* Cochin.ttc in Resources */,
+				EEB7F61072534E08A24F06C8 /* Comic Sans MS.ttf in Resources */,
+				AEA8DA26C3DE4BE6AA56B9C0 /* Courier New.ttf in Resources */,
+				864A059B93C648EB909D9816 /* DevanagariMT.ttc in Resources */,
+				49FB5240B6914E649A0063BD /* Georgia.ttf in Resources */,
+				4DCDCE87D7424AD58916382D /* Microsoft Sans Serif.ttf in Resources */,
+				0A488BC8BCD4471C8B3BFD06 /* Skia.ttf in Resources */,
+				7EDBFB5A38214860957EDC3E /* Times New Roman.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -614,11 +670,11 @@
 				);
 				INFOPLIST_FILE = "BeaconFinder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-        OTHER_LDFLAGS = (
+				OTHER_LDFLAGS = (
 					"$(inherited)",
-          "-ObjC",
-          "-lc++",
-        );
+					"-ObjC",
+					"-lc++",
+				);
 				PRODUCT_NAME = BeaconFinder;
 			};
 			name = Debug;
@@ -634,11 +690,11 @@
 				);
 				INFOPLIST_FILE = "BeaconFinder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-        OTHER_LDFLAGS = (
+				OTHER_LDFLAGS = (
 					"$(inherited)",
-          "-ObjC",
-          "-lc++",
-        );
+					"-ObjC",
+					"-lc++",
+				);
 				PRODUCT_NAME = BeaconFinder;
 			};
 			name = Release;
