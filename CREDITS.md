@@ -11,6 +11,10 @@
 
   + https://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial
 
+### Components
+
+  + https://facebook.github.io/react-native/docs/alert.html
+
 ### Design
 
 #### Framework
