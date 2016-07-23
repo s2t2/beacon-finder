@@ -42,6 +42,7 @@ module.exports.styles = StyleSheet.create({
     alignItems: 'flex-end'
   },
   button:{
-    marginRight:3
+    marginRight:3,
+    borderRadius:50
   }
 });
