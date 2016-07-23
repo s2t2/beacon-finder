@@ -24,10 +24,10 @@ module.exports.styles = StyleSheet.create({
   container:{
   },
   header: {
-    //backgroundColor: "#666666" //"#4d4d4d"
+    backgroundColor: "#428bca"//"#666666" //"#4d4d4d"
   },
   title: {
-    //fontFamily:""
+    //color:"#ffffff"
   },
   content:{
     margin:20

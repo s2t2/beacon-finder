@@ -30,6 +30,7 @@
 
   + https://github.com/oblador/react-native-vector-icons
   + http://ionicframework.com/docs/v2/ionicons/
+  + https://github.com/oblador/react-native-vector-icons/issues/233
 
 #### Component Styles
 
@@ -38,6 +39,9 @@
   + https://facebook.github.io/react-native/docs/text.html#style
   + https://facebook.github.io/react-native/docs/flexbox.html
 
+#### Colors
+
+  + http://www.color-hex.com/color-palette/5452
 
 
 
