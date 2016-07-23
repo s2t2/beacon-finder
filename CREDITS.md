@@ -19,6 +19,7 @@
   + http://nativebase.io/
   + http://nativebase.io/docs/v0.5.0/getting-started
   + http://nativebase.io/docs/v0.5.0/components
+  + http://nativebase.io/docs/v0.5.0/cheatsheet
 
 
 ## Android Development
