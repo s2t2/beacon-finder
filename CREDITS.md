@@ -11,7 +11,9 @@
 
   + https://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial
 
-### Styling and Design
+### Design
+
+#### Framework
 
   + https://github.com/xinthink/react-native-material-kit
   + https://github.com/jondot/awesome-react-native
@@ -19,6 +21,36 @@
   + http://nativebase.io/
   + http://nativebase.io/docs/v0.5.0/getting-started
   + http://nativebase.io/docs/v0.5.0/components
+
+#### Icons
+
+  + https://github.com/oblador/react-native-vector-icons
+  + http://ionicframework.com/docs/v2/ionicons/
+
+#### Component Styles
+
+  + https://gist.github.com/s2t2/d23cdec310d168b53464c769cfce29a9
+  + https://facebook.github.io/react-native/docs/view.html#style
+  + https://facebook.github.io/react-native/docs/text.html#style
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Android Development
