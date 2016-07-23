@@ -2,7 +2,7 @@ import React from 'react';
 import {AppRegistry, Text, Alert} from 'react-native';
 import {Container, Header, Footer, Title, Content, Button, Icon } from 'native-base';
 
-import {styles} from "./lib/styles";
+import {styles} from "./lib/Styles";
 
 const BeaconFinder = React.createClass({
   alertTitle: "Alert Title",
