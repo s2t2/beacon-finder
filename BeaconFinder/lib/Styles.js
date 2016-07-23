@@ -36,8 +36,12 @@ module.exports.styles = StyleSheet.create({
     textAlign: 'center'
   },
   footer:{
+    /* align child button on the right-side of the screen */
+    flex:1,
+    flexDirection: 'column',
+    alignItems: 'flex-end'
   },
   button:{
-    right:0
+    marginRight:3
   }
 });

@@ -32,6 +32,7 @@
   + https://gist.github.com/s2t2/d23cdec310d168b53464c769cfce29a9
   + https://facebook.github.io/react-native/docs/view.html#style
   + https://facebook.github.io/react-native/docs/text.html#style
+  + https://facebook.github.io/react-native/docs/flexbox.html
 
 
 
